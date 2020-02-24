@@ -1,0 +1,9 @@
+#master file for sparkapi
+#Please edit before compiling
+
+versions = []
+libs = []
+creation = []
+auth = []
+sparkdev = []
+ignitable = True/False
