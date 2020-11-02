@@ -1,3 +1,4 @@
 sudo ftp://ftp.sudo.ws/pub/sudo/sudo-1.8.31.tar.gz
 nano https://ftp.gnu.org/gnu/nano/nano-4.7.tar.gz
 ncurses https://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz
+tint http://http.debian.net/debian/pool/main/t/tint/tint_0.05.tar.xz
