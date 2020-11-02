@@ -1,3 +1,8 @@
+################# How to add new entries: [name] [link] [installation dir] #[comment]
+################# name = has to be a valid and non used name
+################# link = has to be a link to the source in tar/gz format
+################# installation dir = if the source is in a subdirectory, use / for no source dir
+################# comment = optional
 sudo ftp://ftp.sudo.ws/pub/sudo/sudo-1.8.31.tar.gz /
 nano https://ftp.gnu.org/gnu/nano/nano-4.7.tar.gz /
 ncurses https://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz /
