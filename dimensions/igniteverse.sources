@@ -2,4 +2,5 @@ sudo ftp://ftp.sudo.ws/pub/sudo/sudo-1.8.31.tar.gz
 nano https://ftp.gnu.org/gnu/nano/nano-4.7.tar.gz
 ncurses https://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz
 tar https://ftp.gnu.org/gnu/tar/tar-1.32.tar.gz #Tar to compress files
-doas https://github.com/slicer69/doas/archive/6.3p2.tar.gz #
+doas https://github.com/slicer69/doas/archive/6.3p2.tar.gz #Debloated Sudo
+vim-text https://github.com/vim/vim/archive/v8.2.1941.tar.gz
