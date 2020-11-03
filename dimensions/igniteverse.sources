@@ -1,6 +1,6 @@
 ################# How to add new entries: [name] [link] [installation dir] #[comment]
 ################# name = has to be a valid and non used name
-################# link = has to be a link to the source in tar/gz format
+################# link = has to be a link to the source in tar.gz format
 ################# installation dir = if the source is in a subdirectory, use / for no source dir
 ################# comment = optional
 sudo ftp://ftp.sudo.ws/pub/sudo/sudo-1.8.31.tar.gz /
@@ -9,4 +9,3 @@ ncurses https://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz /
 tar https://ftp.gnu.org/gnu/tar/tar-1.32.tar.gz / #Tar to compress files
 doas https://github.com/slicer69/doas/archive/6.3p2.tar.gz / #Debloated Sudo
 vim-text https://github.com/vim/vim/archive/v8.2.1941.tar.gz src # Uses a source dir specifier  
-firefox https://download-installer.cdn.mozilla.net/pub/firefox/releases/82.0.2/linux-x86_64/en-US/firefox-82.0.2.tar.bz2 / # First browser
